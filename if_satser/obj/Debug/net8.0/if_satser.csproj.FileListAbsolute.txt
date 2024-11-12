@@ -1,0 +1,14 @@
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\bin\Debug\net8.0\if_satser.exe
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\bin\Debug\net8.0\if_satser.deps.json
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\bin\Debug\net8.0\if_satser.runtimeconfig.json
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\bin\Debug\net8.0\if_satser.dll
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\bin\Debug\net8.0\if_satser.pdb
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.AssemblyInfoInputs.cache
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.AssemblyInfo.cs
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.csproj.CoreCompileInputs.cache
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.dll
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\refint\if_satser.dll
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.pdb
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\if_satser.genruntimeconfig.cache
+C:\Users\dmytro.malanchuk\Documents\C# (if_satser)\if_satser\obj\Debug\net8.0\ref\if_satser.dll
